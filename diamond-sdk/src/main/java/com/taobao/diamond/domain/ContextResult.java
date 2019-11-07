@@ -22,7 +22,6 @@ import java.io.Serializable;
  * 
  * @filename ContextResult.java
  * @author libinbin.pt
- * @param <T>
  * @datetime 2010-7-16 下午05:48:54
  */
 @SuppressWarnings("serial")
